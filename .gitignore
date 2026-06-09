@@ -1,0 +1,30 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Secrets and private credentials
+.env
+.env.*
+credentials.json
+token.json
+*.pem
+*.key
+
+# Personal raw/private files
+raw/private/
+raw/inbox/private/
+
+# Generated caches
+__pycache__/
+*.pyc
+node_modules/
+.cache/
+
