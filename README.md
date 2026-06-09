@@ -2,7 +2,7 @@
 
 A clean, AI-friendly personal wiki starter kit.
 
-This repo is designed for people who want to manage notes, goals, projects, raw sources, and personal knowledge with an AI assistant while keeping the structure simple enough to use every day.
+This repo is designed for people who want to manage notes, goals, projects, raw sources, and personal knowledge with an AI assistant while keeping the structure simple enough to use every day. By following Andrej Karpathy's approach as explained in this gist https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
 ## Quick Start
 
